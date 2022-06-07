@@ -20,7 +20,7 @@ fork of [pooler](//github.com/pooler)'s cpuminer (see AUTHORS for list of contri
 Algorithms
 ==========
 #### Currently supported
- * ✓ __scrypt__ (Litecoin, Dogecoin, Feathercoin, ...)
+ * ✓ __scrypt__ (Outracoin, Litecoin, Dogecoin, Feathercoin, ...)
  * ✓ __scrypt:N__
  * ✓ __scryptn2__ (Verium [VRM])
  * ✓ __scryptn11__ (Fujicoin [FUJI])
@@ -119,9 +119,9 @@ Dependencies
 
 Download
 ========
- * Windows releases: https://github.com/tpruvot/cpuminer-multi/releases
- * Git tree:   https://github.com/tpruvot/cpuminer-multi
-   * Clone with `git clone https://github.com/tpruvot/cpuminer-multi`
+ * Termux releases: https://github.com/outracoin/termux-miner/releases
+ * Git tree:  https://github.com/outracoin/termux-miner/releases
+   * Clone with `git clone [https://github.com/tpruvot/cpuminer-multi`
 
 Build
 =====
@@ -218,17 +218,6 @@ Protocols socks4a and socks5h, allowing remote name resolving, are also availabl
 
 If no protocol is specified, the proxy is assumed to be a HTTP proxy.  
 When the --proxy option is not used, the program honors the http_proxy and all_proxy environment variables.
-
-Donations
-=========
-Donations for the work done in this fork are accepted :
-
-Tanguy Pruvot :
-* BTC: `1FhDPLPpw18X4srecguG3MxJYe4a1JsZnd`
-
-Lucas Jones :
-* MRO: `472haywQKoxFzf7asaQ4XKBc2foAY4ezk8HiN63ifW4iAbJiLnfmJfhHSR9XmVKw2WYPnszJV9MEHj9Z5WMK9VCNHaGLDmJ`
-* BTC: `139QWoktddChHsZMWZFxmBva4FM96X2dhE`
 
 Credits
 =======
