@@ -121,7 +121,7 @@ Download
 ========
  * Termux releases: https://github.com/outracoin/termux-miner/releases
  * Git tree:  https://github.com/outracoin/termux-miner/releases
-   * Clone with `git clone https://github.com/outracoin/termux-miner`
+   * Clone with `git clone https://github.com/outracoin/termux-miner.git`
 
 Build
 =====
